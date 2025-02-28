@@ -1,0 +1,16 @@
+[project]
+name = "sultek-connector"
+version = "0.1.0"
+description = "Sultek Connector"
+authors = [{name = "Anders Norrbom", email = "anders@norrbom.org"}]
+
+requires-python = ">=3.11,<3.13"
+dependencies = [
+    "aiohttp>=3.11.13",
+    "dotenv>=0.9.9",
+    "pendulum>=3.0.0",
+    "pydantic>=2.10.6",
+]
+
+[dependency-groups]
+dev = ["pytest", "black", "pytest-aiohttp"]

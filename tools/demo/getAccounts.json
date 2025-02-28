@@ -1,0 +1,12 @@
+{
+    "ad_accounts":[
+       {
+          "id":"12345",
+          "name":"MyAccount#1"
+       },
+       {
+         "id":"67890",
+         "name":"MyAccount#2"
+      }
+    ]
+ }

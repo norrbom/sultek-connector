@@ -1,0 +1,28 @@
+{
+   "data":[
+      {
+         "campaign_id":"may-campaign-187091",
+         "clicks":459523,
+         "conversions":8912,
+         "cost":9712.85,
+         "date":"2024-05-01",
+         "impressions":1295715
+      },
+      {
+        "campaign_id":"may-campaign-187091",
+        "clicks":459523,
+        "conversions":8912,
+        "cost":9712.85,
+        "date":"2024-05-01",
+        "impressions":1295715
+     },
+     {
+        "campaign_id":"may-campaign-187091",
+        "clicks":459523,
+        "conversions":8912,
+        "cost":9712.85,
+        "date":"2024-05-02",
+        "impressions":1295715
+     }
+   ]
+}
